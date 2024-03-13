@@ -1,0 +1,33 @@
+.brands-list img {
+    height: 24px;
+}
+
+section .store-front {
+    margin-right: 32px;
+}
+
+.brands-list li {
+    display: inline;
+    margin-right: 8px;
+}
+
+section .container {
+    display: flex;
+    justify-content: space between;
+}
+
+section {
+    padding: 24px 0;
+    color: var(--hdbg-color);
+}
+
+section h2 {
+    margin-bottom: 16px;
+    font-family: 'Bungee', cursive;
+    font-weight: normal;
+}
+
+section p {
+    margin-bottom: 8px;
+    
+}
