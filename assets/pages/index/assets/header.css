@@ -2,11 +2,6 @@ header {
     padding: 16px 0;
     background-color: var(--hdbg-color);
     color: var(--hd-text);
-    font-family: 'Bungee', cursive;
-}
-
-header h1 {
-    font-weight: normal;
 }
 
 header nav li {
