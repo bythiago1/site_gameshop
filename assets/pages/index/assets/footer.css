@@ -1,0 +1,5 @@
+footer {
+    background-color: var(--hdbg-color);
+    color: var(--hd-text);
+    padding: 16px 0;
+}
